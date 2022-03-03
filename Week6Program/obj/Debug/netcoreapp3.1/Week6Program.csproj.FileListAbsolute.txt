@@ -1,0 +1,14 @@
+C:\Users\Sebas\source\repos\Week6Program\bin\Debug\netcoreapp3.1\Week6Program.exe
+C:\Users\Sebas\source\repos\Week6Program\bin\Debug\netcoreapp3.1\Week6Program.deps.json
+C:\Users\Sebas\source\repos\Week6Program\bin\Debug\netcoreapp3.1\Week6Program.runtimeconfig.json
+C:\Users\Sebas\source\repos\Week6Program\bin\Debug\netcoreapp3.1\Week6Program.runtimeconfig.dev.json
+C:\Users\Sebas\source\repos\Week6Program\bin\Debug\netcoreapp3.1\Week6Program.dll
+C:\Users\Sebas\source\repos\Week6Program\bin\Debug\netcoreapp3.1\Week6Program.pdb
+C:\Users\Sebas\source\repos\Week6Program\obj\Debug\netcoreapp3.1\Week6Program.csproj.AssemblyReference.cache
+C:\Users\Sebas\source\repos\Week6Program\obj\Debug\netcoreapp3.1\Week6Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebas\source\repos\Week6Program\obj\Debug\netcoreapp3.1\Week6Program.AssemblyInfoInputs.cache
+C:\Users\Sebas\source\repos\Week6Program\obj\Debug\netcoreapp3.1\Week6Program.AssemblyInfo.cs
+C:\Users\Sebas\source\repos\Week6Program\obj\Debug\netcoreapp3.1\Week6Program.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\Week6Program\obj\Debug\netcoreapp3.1\Week6Program.dll
+C:\Users\Sebas\source\repos\Week6Program\obj\Debug\netcoreapp3.1\Week6Program.pdb
+C:\Users\Sebas\source\repos\Week6Program\obj\Debug\netcoreapp3.1\Week6Program.genruntimeconfig.cache
